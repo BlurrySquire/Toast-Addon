@@ -1,0 +1,34 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Riley Hawksworth"
+		]
+	},
+	"header": {
+		"name": "Toast Addon",
+		"description": "Ever wanted toast in Minecraft? Now we have it!",
+		"min_engine_version": [
+			1,
+			20,
+			60
+		],
+		"uuid": "2c246e66-ff02-42f7-8359-17225367da06",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "498f39cc-7a45-452f-9035-874f44943a6b",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

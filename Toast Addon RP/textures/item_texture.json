@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "Toast Addon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"toast_texture": {
+			"textures": "textures/items/toast"
+		}
+	}
+}
